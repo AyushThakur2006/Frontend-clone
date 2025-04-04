@@ -38,3 +38,13 @@ line-height: 1;
     justify-content: center;
     gap: 10px;
 }
+.btn img
+{
+    width: 20px;
+    margin-left: 10px;
+}
+.btn.dark-btn
+{
+    background:#212EA0;
+    color: #fff;
+}

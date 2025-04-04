@@ -9,10 +9,10 @@ const Hero = () => {
 <p>Our cutting-edge curriclum is designed to empower students with the 
     knowledge ,skills and experiences needed to excel in the dynamic field of education
       </p>
-<button className='btn'>Explore More <img src={darkkarrow} className='arrow_icon' /></button>
+<button className='btn'> Explore More<img src={darkkarrow} className='arrow_icon' /></button>
         </div>
     </div>
   )
 }
 
-export default Hero
+export default Hero 
