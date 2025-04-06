@@ -16,7 +16,7 @@ window.addEventListener("scroll",()=>{window.scrollY > window.innerHeight*.8 ? s
 
   return (
 <nav className={`navbar ${sticky? 'dark-nav':''}`}>
-    <img src={logo} className="logo"/>HomeProgramAbout usCampusTestimonial￼Contact us
+    <img src={logo} className="logo"/>
 
     <ul>
         <li><Link to='hero' smooth={true} offset={0} duration={500}>Home</Link></li>
